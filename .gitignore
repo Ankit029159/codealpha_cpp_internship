@@ -1,0 +1,32 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debugging files
+*.gch
+*.pch
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# Build folders
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Cache
+*.cache
